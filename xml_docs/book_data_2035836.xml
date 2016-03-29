@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2035836</id>
+  <title><![CDATA[Tu&#X308;Rkler Ve Tatarlar Aras&#X131;Nda, 1394 1427 =Als Sklave Im Osmanischen Reich Und Bei Den Tataren, 1394 1427]]></title>
+  <isbn><![CDATA[9754704597]]></isbn>
+  <isbn13><![CDATA[9789754704594]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[US]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1995</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Iletisim</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">2040622</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">2035836</best_book_id>
+  <reviews_count type="integer">4</reviews_count>
+  <ratings_sum type="integer">5</ratings_sum>
+  <ratings_count type="integer">2</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <original_publication_year type="integer">1995</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Turkler ve Tatarlar arasinda, 1394-1427 =: Als Sklave im Osmanischen Reich und bei den Tataren, 1394-1427 (Tarih-politika dizisi)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type nil="true"/>
+  <rating_dist>5:0|4:0|3:1|2:1|1:0|total:2</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>2.50</average_rating>
+  <num_pages><![CDATA[215]]></num_pages>
+  <format><![CDATA[Unknown Binding]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2]]></ratings_count>
+  <text_reviews_count><![CDATA[0]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2035836.Tu_X308_Rkler_Ve_Tatarlar_Aras_X131_Nda_1394_1427_Als_Sklave_Im_Osmanischen_Reich_Und_Bei_Den_Tataren_1394_1427]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2035836.Tu_X308_Rkler_Ve_Tatarlar_Aras_X131_Nda_1394_1427_Als_Sklave_Im_Osmanischen_Reich_Und_Bei_Den_Tataren_1394_1427]]></link>
+  <authors>
+<author>
+<id>925696</id>
+<name>Johannes Schiltberger</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/925696.Johannes_Schiltberger]]></link>
+<average_rating>3.44</average_rating>
+<ratings_count>9</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/2035836.Tu_X308_Rkler_Ve_Tatarlar_Aras_X131_Nda_1394_1427_Als_Sklave_Im_Osmanischen_Reich_Und_Bei_Den_Tataren_1394_1427">Tu&amp;amp;#X308;Rkler Ve Tatarlar Aras&amp;amp;#X131;Nda, 1394 1427 =Als Sklave Im Osmanischen Reich Und Bei Den Tataren, 1394 1427 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9754704597&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" href="https://www.goodreads.com/book/show/2035836.Tu_X308_Rkler_Ve_Tatarlar_Aras_X131_Nda_1394_1427_Als_Sklave_Im_Osmanischen_Reich_Und_Bei_Den_Tataren_1394_1427?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+</book>
+
+</GoodreadsResponse>

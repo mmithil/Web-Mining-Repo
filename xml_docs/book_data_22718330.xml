@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22718330</id>
+  <title>Give Me Hell (Give Me, #4)</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[US]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Mackenzie Valentine/Jake Romero]]></description>
+  <work>
+  <id type="integer">42246614</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">22718330</best_book_id>
+  <reviews_count type="integer">2060</reviews_count>
+  <ratings_sum type="integer">138</ratings_sum>
+  <ratings_count type="integer">33</ratings_count>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19|4:7|3:3|2:2|1:2|total:33</rating_dist>
+  <desc_user_id type="integer">20537528</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[33]]></ratings_count>
+  <text_reviews_count><![CDATA[9]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22718330-give-me-hell]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22718330-give-me-hell]]></link>
+  <authors>
+<author>
+<id>6876994</id>
+<name>Kate  McCarthy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357191076p5/6876994.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357191076p2/6876994.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6876994.Kate_McCarthy]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>22938</ratings_count>
+<text_reviews_count>2687</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/22718330-give-me-hell">Give Me Hell Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" href="https://www.goodreads.com/book/show/22718330-give-me-hell?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1950"/>
+      <shelf name="to-be-released" count="15"/>
+      <shelf name="not-yet-released" count="13"/>
+      <shelf name="coming-soon" count="10"/>
+      <shelf name="new-adult" count="8"/>
+      <shelf name="not-out-yet" count="7"/>
+      <shelf name="not-yet-published" count="6"/>
+      <shelf name="not-released-yet" count="6"/>
+      <shelf name="waiting" count="5"/>
+      <shelf name="2015-release" count="5"/>
+      <shelf name="kate-mccarthy" count="4"/>
+      <shelf name="romance" count="4"/>
+      <shelf name="waiting-for-release" count="4"/>
+      <shelf name="series" count="4"/>
+      <shelf name="sequels" count="4"/>
+      <shelf name="not-released" count="4"/>
+      <shelf name="serie" count="4"/>
+      <shelf name="can-t-wait" count="3"/>
+      <shelf name="give-me" count="3"/>
+      <shelf name="awaiting-release" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="no-date" count="3"/>
+      <shelf name="no-release-date" count="3"/>
+      <shelf name="2015-releases" count="3"/>
+      <shelf name="contemporary-romance" count="3"/>
+      <shelf name="unknown-release" count="2"/>
+      <shelf name="currently-reading" count="2"/>
+      <shelf name="unfinished-series" count="2"/>
+      <shelf name="need" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="yet-to-be-released" count="2"/>
+      <shelf name="music" count="2"/>
+      <shelf name="not-out" count="2"/>
+      <shelf name="rockers" count="2"/>
+      <shelf name="need-to-get" count="2"/>
+      <shelf name="incomplete-series" count="2"/>
+      <shelf name="need-to-buy" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="2015-books" count="2"/>
+      <shelf name="rock-stars" count="2"/>
+      <shelf name="must-reads" count="2"/>
+      <shelf name="not-published-yet" count="2"/>
+      <shelf name="wfr-no-release-date" count="1"/>
+      <shelf name="fbbf2016" count="1"/>
+      <shelf name="to-read-not-released-yet" count="1"/>
+      <shelf name="no-date-as-yet" count="1"/>
+      <shelf name="date-unknown" count="1"/>
+      <shelf name="not-yet-relaesed" count="1"/>
+      <shelf name="tbc-release-date" count="1"/>
+      <shelf name="anxiously-waiting-to-be-released" count="1"/>
+      <shelf name="continue-and-or-finish-the-series" count="1"/>
+      <shelf name="must-read-list-tbr" count="1"/>
+      <shelf name="read-first" count="1"/>
+      <shelf name="out" count="1"/>
+      <shelf name="unkown-release" count="1"/>
+      <shelf name="new-releases-2016" count="1"/>
+      <shelf name="pub-2016-etc" count="1"/>
+      <shelf name="tbr-2016" count="1"/>
+      <shelf name="expected-pub-201x-no-cover" count="1"/>
+      <shelf name="unknown-date" count="1"/>
+      <shelf name="who-the-heck-knows" count="1"/>
+      <shelf name="2016-releases" count="1"/>
+      <shelf name="w-kindle" count="1"/>
+      <shelf name="light" count="1"/>
+      <shelf name="happy" count="1"/>
+      <shelf name="1to-be-released" count="1"/>
+      <shelf name="2016-release" count="1"/>
+      <shelf name="00-unknown-release-date" count="1"/>
+      <shelf name="books-unknown-pub-date" count="1"/>
+      <shelf name="books-2016" count="1"/>
+      <shelf name="give-me-series" count="1"/>
+      <shelf name="ni-se-datuma-izdaje" count="1"/>
+      <shelf name="to-read-sequels-nr" count="1"/>
+      <shelf name="to-read-2" count="1"/>
+      <shelf name="check-new-book-series" count="1"/>
+      <shelf name="06-unknown" count="1"/>
+      <shelf name="upcoming-books" count="1"/>
+      <shelf name="20xx-release-date" count="1"/>
+      <shelf name="rok-2016" count="1"/>
+      <shelf name="kiedy-2016" count="1"/>
+      <shelf name="romance-passion-erotica" count="1"/>
+      <shelf name="favorites" count="1"/>
+      <shelf name="want-to-read-2015" count="1"/>
+      <shelf name="anticipated-books-must-read" count="1"/>
+      <shelf name="buy-asap" count="1"/>
+      <shelf name="waiting-to-read" count="1"/>
+      <shelf name="met-spanning-wachten-tot-het-uitk" count="1"/>
+      <shelf name="to-read-series" count="1"/>
+      <shelf name="read-when-published" count="1"/>
+      <shelf name="keep-up" count="1"/>
+      <shelf name="not-yet-published-to-read" count="1"/>
+      <shelf name="untranslated-yet" count="1"/>
+      <shelf name="to-read-ongoing-series" count="1"/>
+      <shelf name="sequels-rs" count="1"/>
+      <shelf name="standalone-series" count="1"/>
+      <shelf name="series-to-read" count="1"/>
+      <shelf name="waiting-need" count="1"/>
+      <shelf name="to-be-release" count="1"/>
+      <shelf name="read-in-summer" count="1"/>
+      <shelf name="not-yet-available" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>663495</id>
+<user_position>4</user_position>
+<series>
+<id>100260</id>
+<title>
+<![CDATA[
+    Give Me
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>17259444</id>
+<title>Untitled (Breathe Again, #3)</title>
+<title_without_series>Untitled</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17259444-untitled]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>23854800</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6870069</id>
+<name>Emma Grayson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6870069.Emma_Grayson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21846628</id>
+<title><![CDATA[Against the Grain (Against, #2)]]></title>
+<title_without_series>Against the Grain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21846628-against-the-grain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>41117373</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>9</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7389718</id>
+<name>Angie McKeon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7389718.Angie_McKeon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23150548</id>
+<title>Behind Closed Doors</title>
+<title_without_series>Behind Closed Doors</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23150548-behind-closed-doors]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>42698246</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>2</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7084780</id>
+<name>J.L. Berg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7084780.J_L_Berg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23302092</id>
+<title><![CDATA[Virtually Impossible (Once and Forever, #2)]]></title>
+<title_without_series>Virtually Impossible</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23302092-virtually-impossible]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>42857634</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>8</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5828179</id>
+<name>Lauren Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5828179.Lauren_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23735103</id>
+<title><![CDATA[Heart Broke (Hard Rock Roots, #8)]]></title>
+<title_without_series>Heart Broke</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23735103-heart-broke]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1436322642s/23735103.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1436322642m/23735103.jpg]]></image_url>
+<work>
+<id>43347154</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>14</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6432984</id>
+<name>C.M. Stunich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6432984.C_M_Stunich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22587153</id>
+<title>Hurt (Taint, #2)</title>
+<title_without_series>Hurt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22587153-hurt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>42062481</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.14</average_rating>
+<ratings_count>7</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6547659</id>
+<name>Carmen Jenner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6547659.Carmen_Jenner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18758293</id>
+<title><![CDATA[Fighting Winter (Winter's Brothers, #1)]]></title>
+<title_without_series>Fighting Winter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18758293-fighting-winter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>26652357</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>7</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6983012</id>
+<name>Belle Aurora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6983012.Belle_Aurora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23484874</id>
+<title>Amped (Trent Brothers, #2)</title>
+<title_without_series>Amped</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23484874-amped]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>43075619</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.00</average_rating>
+<ratings_count>6</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3980637</id>
+<name>Tina Reber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3980637.Tina_Reber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26040596</id>
+<title><![CDATA[Untitled (The Breaking Point, #2)]]></title>
+<title_without_series>Untitled</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26040596-untitled]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>45968439</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>8</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6875794</id>
+<name>Jay Crownover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6875794.Jay_Crownover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21859694</id>
+<title>Unsuitable</title>
+<title_without_series>Unsuitable</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21859694-unsuitable]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>41134375</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>41</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4838933</id>
+<name>Samantha Towle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4838933.Samantha_Towle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17619583</id>
+<title><![CDATA[Sweet Victory (Fighting for Love, #4)]]></title>
+<title_without_series>Sweet Victory</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17619583-sweet-victory]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>24585317</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>66</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6446604</id>
+<name>Gina L. Maxwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6446604.Gina_L_Maxwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18750918</id>
+<title><![CDATA[Irrevocable Trust (Irreparable, #1.5)]]></title>
+<title_without_series>Irrevocable Trust</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18750918-irrevocable-trust]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>26637848</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>14</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6994530</id>
+<name>K.J. Bell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994530.K_J_Bell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20523410</id>
+<title><![CDATA[Temptation's Edge (Sons of Temptation, #2)]]></title>
+<title_without_series>Temptation&apos;s Edge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20523410-temptation-s-edge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>36774895</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.58</average_rating>
+<ratings_count>12</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7734306</id>
+<name>Tanya Holmes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7734306.Tanya_Holmes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27859841</id>
+<title>Thief of Hearts (Hearts, #5)</title>
+<title_without_series>Thief of Hearts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27859841-thief-of-hearts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>47848705</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>6</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5622223</id>
+<name>L.H. Cosway</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5622223.L_H_Cosway]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20529840</id>
+<title>Let It Go (The Do Over, #3)</title>
+<title_without_series>Let It Go</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20529840-let-it-go]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>37499584</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>4</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6941223</id>
+<name>A.L. Zaun</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6941223.A_L_Zaun]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23598964</id>
+<title>Crushed (Slammed, #2)</title>
+<title_without_series>Crushed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23598964-crushed]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>43201109</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>9</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6554179</id>
+<name>Skyla Madi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6554179.Skyla_Madi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23289906</id>
+<title>Unburdened (Disclosure, #3)</title>
+<title_without_series>Unburdened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23289906-unburdened]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>42847214</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>2</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7046339</id>
+<name>R.E. Hunter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7046339.R_E_Hunter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25349674</id>
+<title>Untitled (Woodlands, #5)</title>
+<title_without_series>Untitled</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25349674-untitled]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>45090171</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>8</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6995972</id>
+<name>Jen Frederick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6995972.Jen_Frederick]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

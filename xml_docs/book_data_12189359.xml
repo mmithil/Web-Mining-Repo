@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="20" total="24">
+    <review>
+  <id>254786153</id>
+    <book>
+  <id type="integer">12189359</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Breaking Silence</title>
+  <image_url>https://d.gr-assets.com/books/1311895923m/12189359.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1311895923s/12189359.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12189359-breaking-silence</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.38</average_rating>
+  <ratings_count>16</ratings_count>
+  <description>The 60s. The crossroads of change and immobility. In 1964, C.A. Harris was three years old and living in a world of silence. Only nobody knew it – nobody knew her world was one of muffled and descriptionless sound.&lt;br&gt;&lt;br&gt;Breaking Silence is a glimpse into Detroit life when Motown ruled the airwaves and blacks weren’t allowed to cross 8 Mile. It’s a glimpse into the life of a young girl growing up hearing impaired at the pinnacle of political and social unrest.</description>
+<authors>
+<author>
+<id>5081641</id>
+<name>C.A. Harris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1323562509p5/5081641.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1323562509p2/5081641.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5081641.C_A_Harris]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>16</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 02 06:56:07 -0800 2012</started_at>
+  <read_at>Thu Feb 09 11:47:53 -0800 2012</read_at>
+  <date_added>Mon Jan 02 06:56:07 -0800 2012</date_added>
+  <date_updated>Wed Mar 21 15:38:50 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/254786153]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/254786153]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232797373</id>
+    <book>
+  <id type="integer">10176</id>
+  <isbn>0965904830</isbn>
+  <isbn13>9780965904834</isbn13>
+  <text_reviews_count type="integer">4357</text_reviews_count>
+  <title>Dress Your Family in Corduroy and Denim</title>
+  <image_url>https://d.gr-assets.com/books/1352983006m/10176.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1352983006s/10176.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10176.Dress_Your_Family_in_Corduroy_and_Denim</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little Brown &amp; Co.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>181531</ratings_count>
+  <description>David Sedaris returns to his deliriously twisted domain: hilarious childhood dramas infused with melancholy; the gulf of misunderstanding that exists between people of different nations or members of the same family; and the poignant divide between one's best hopes and most common deeds. The family characters his readers love are all here, as well as the unique terrain they inhabit, strewn with comic landmines. 'The Rooster' is back, and getting married in the funniest wedding ever described. David attends a slumber party and gets the upper hand in a unique version of strip poker. 'Rubber or plastic?' The strangest questions can tear people apart. A skinny guy from Spain, wearing a bishop's hat and accompanied by six to eight men, invades your house and pretends to kick you. Is this any way to spend Christmas? With this new book, Sedaris's prose reaches breathtaking new heights and marks off a territory that is unmistakably his own. Read it and weep tears of humane laughter.</description>
+<authors>
+<author>
+<id>2849</id>
+<name>David Sedaris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1213737698p5/2849.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1213737698p2/2849.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2849.David_Sedaris]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>1291456</ratings_count>
+<text_reviews_count>51465</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:07:22 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:07:22 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232797373]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232797373]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232797132</id>
+    <book>
+  <id type="integer">105992</id>
+  <isbn>0393322238</isbn>
+  <isbn13>9780393322231</isbn13>
+  <text_reviews_count type="integer">1847</text_reviews_count>
+  <title>Helter Skelter: The True Story of the Manson Murders</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/105992.Helter_Skelter</link>
+  <num_pages>689</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>82208</ratings_count>
+  <description>&lt;strong&gt;A national bestseller—7 million copies sold.&lt;/strong&gt; &lt;br&gt;&lt;br&gt;Prosecuting attorney in the Manson trial, Vincent Bugliosi held a unique insider's position in one of the most baffling and horrifying cases of the twentieth century: the cold-blooded Tate-LaBianca murders carried out by Charles Manson and four of his followers. What motivated Manson in his seemingly mindless selection of victims, and what was his hold over the young women who obeyed his orders? Here is the gripping story of this famous and haunting crime. 50 pages of b/w photographs. &lt;p&gt;Both &lt;em&gt;Helter Skelter&lt;/em&gt; and Vincent Bugliosi's subsequent &lt;em&gt;Till Death Us Do Part&lt;/em&gt; won Edgar Allan Poe Awards for best true-crime book of the year. Bugliosi is also the author of &lt;em&gt;Outrage: The Five Reasons Why O. J. Simpson Got Away with Murder&lt;/em&gt; (Norton, 1996) and other books. Curt Gentry, an Edgar winner, is the author of &lt;em&gt;J. Edgar Hoover: The Man and the Secrets&lt;/em&gt; (available in Norton paperback) and &lt;em&gt;Frame-Up: The Incredible Case of Tom Mooney and Warren Billings.&lt;/em&gt;&lt;/p&gt;</description>
+<authors>
+<author>
+<id>28828</id>
+<name>Vincent Bugliosi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1299068352p5/28828.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1299068352p2/28828.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28828.Vincent_Bugliosi]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>93835</ratings_count>
+<text_reviews_count>2940</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:06:41 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:06:41 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232797132]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232797132]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232796932</id>
+    <book>
+  <id type="integer">43015</id>
+  <isbn>0374105235</isbn>
+  <isbn13>9780374105235</isbn13>
+  <text_reviews_count type="integer">7466</text_reviews_count>
+  <title>A Long Way Gone: Memoirs of a Boy Soldier</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43015.A_Long_Way_Gone</link>
+  <num_pages>229</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Sarah Crichton Books</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>100331</ratings_count>
+  <description>My new friends have begun to suspect I haven't told them the full story of my life.&lt;br&gt;"Why did you leave Sierra Leone?"&lt;br&gt;"Because there is a war."&lt;br&gt;"You mean, you saw people running around with guns and shooting each other?"&lt;br&gt;"Yes, all the time."&lt;br&gt;"Cool."&lt;br&gt;I smile a little.&lt;br&gt;"You should tell us about it sometime."&lt;br&gt;"Yes, sometime."&lt;br&gt;&lt;br&gt;&lt;br&gt;This is how wars are fought now: by children, hopped-up on drugs and wielding AK-47s. Children have become soldiers of choice. In the more than fifty conflicts going on worldwide, it is estimated that there are some 300,000 child soldiers. Ishmael Beah used to be one of them.&lt;br&gt;&lt;br&gt;What is war like through the eyes of a child soldier? How does one become a killer? How does one stop? Child soldiers have been profiled by journalists, and novelists have struggled to imagine their lives. But until now, there has not been a first-person account from someone who came through this hell and survived.&lt;br&gt;&lt;br&gt;In A Long Way Gone, Beah, now twenty-five years old, tells a riveting story: how at the age of twelve, he fled attacking rebels and wandered a land rendered unrecognizable by violence. By thirteen, he'd been picked up by the government army, and Beah, at heart a gentle boy, found that he was capable of truly terrible acts.&lt;br&gt;&lt;br&gt;This is a rare and mesmerizing account, told with real literary force and heartbreaking honesty.</description>
+<authors>
+<author>
+<id>24189</id>
+<name>Ishmael Beah</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294676154p5/24189.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294676154p2/24189.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24189.Ishmael_Beah]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>103001</ratings_count>
+<text_reviews_count>8486</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:06:08 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:06:08 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232796932]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232796932]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232796452</id>
+    <book>
+  <id type="integer">296662</id>
+  <isbn>0684818868</isbn>
+  <isbn13>9780684818863</isbn13>
+  <text_reviews_count type="integer">1638</text_reviews_count>
+  <title>Lies My Teacher Told Me</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me</link>
+  <num_pages>383</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>38722</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>8458</id>
+<name>James W. Loewen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201179473p5/8458.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201179473p2/8458.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8458.James_W_Loewen]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>41579</ratings_count>
+<text_reviews_count>2315</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:04:46 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:04:46 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232796452]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232796452]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232796295</id>
+    <book>
+  <id type="integer">865</id>
+  <isbn>0061122416</isbn>
+  <isbn13>9780061122415</isbn13>
+  <text_reviews_count type="integer">39085</text_reviews_count>
+  <title>The Alchemist</title>
+  <image_url>https://d.gr-assets.com/books/1287827991m/865.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1287827991s/865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/865.The_Alchemist</link>
+  <num_pages>197</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1118927</ratings_count>
+  <description>Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles along the way. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>1788350</ratings_count>
+<text_reviews_count>82181</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:04:17 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:04:17 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232796295]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232796295]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232795881</id>
+    <book>
+  <id type="integer">5107</id>
+  <isbn>0316769177</isbn>
+  <isbn13>9780316769174</isbn13>
+  <text_reviews_count type="integer">32355</text_reviews_count>
+  <title>The Catcher in the Rye</title>
+  <image_url>https://d.gr-assets.com/books/1398034300m/5107.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1398034300s/5107.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>
+  <num_pages>277</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1830403</ratings_count>
+  <description>"...the first thing you'll probably want to know is where I was born and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth. In the first place, that stuff bores me, and in the second place, my parents would have about two hemorrhages apiece if I told anything pretty personal about them."&lt;br&gt;&lt;br&gt;Since his debut in 1951 as The Catcher in the Rye, Holden Caulfield has been synonymous with "cynical adolescent." Holden narrates the story of a couple of days in his sixteen-year-old life, just after he's been expelled from prep school, in a slang that sounds edgy even today and keeps this novel on banned book lists. His constant wry observations about what he encounters, from teachers to phonies (the two of course are not mutually exclusive) capture the essence of the eternal teenage experience of alienation.</description>
+<authors>
+<author>
+<id>819789</id>
+<name>J.D. Salinger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1288777679p5/819789.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1288777679p2/819789.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>2139083</ratings_count>
+<text_reviews_count>47737</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:03:02 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:03:02 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232795881]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232795881]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232795842</id>
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">50420</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <image_url>https://d.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2774017</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, &lt;em&gt;To Kill A Mockingbird&lt;/em&gt; became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br&gt;&lt;br&gt;Compassionate, dramatic, and deeply moving, &lt;em&gt;To Kill A Mockingbird&lt;/em&gt; takes readers to the roots of human behavior—to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>2882099</ratings_count>
+<text_reviews_count>80383</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:02:55 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:02:55 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232795842]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232795842]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232795556</id>
+    <book>
+  <id type="integer">6853</id>
+  <isbn>0312362080</isbn>
+  <isbn13>9780312362089</isbn13>
+  <text_reviews_count type="integer">10827</text_reviews_count>
+  <title>One for the Money (Stephanie Plum, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1316730230m/6853.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1316730230s/6853.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6853.One_for_the_Money</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information>First St. Martin's Griffin Edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month/>
+  <average_rating>4.02</average_rating>
+  <ratings_count>354274</ratings_count>
+  <description>Pestered by her close New Jersey family, Stephanie Plum offers to catch high-school crush Joe Morelli, cop turned bail jumper, for her cousin Vinnie's company. She questions "working girls" to find the missing girlfriend of vicious prizefighter Benito Ramirez while Joe secretly watches her back. Ranger mentors her and supplies vehicles when hers explode.</description>
+<authors>
+<author>
+<id>2384</id>
+<name>Janet Evanovich</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385051483p5/2384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385051483p2/2384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2384.Janet_Evanovich]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>2512130</ratings_count>
+<text_reviews_count>103648</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:02:43 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:02:43 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232795556]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232795556]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232795670</id>
+    <book>
+  <id type="integer">7812659</id>
+  <isbn>044654759X</isbn>
+  <isbn13>9780446547598</isbn13>
+  <text_reviews_count type="integer">10639</text_reviews_count>
+  <title>Safe Haven</title>
+  <image_url>https://d.gr-assets.com/books/1344268800m/7812659.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344268800s/7812659.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7812659-safe-haven</link>
+  <num_pages>340</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>235786</ratings_count>
+  <description>&lt;em&gt;Love hurts. There is nothing as painful as heartbreak. But in order to learn to love again, you must learn to trust again.&lt;/em&gt;&lt;br&gt;&lt;br&gt;When a mysterious young woman named Katie appears in the small North Carolina town of Southport, her sudden arrival raises questions about her past. Beautiful yet self-effacing, Katie seems determined to avoid forming personal ties until a series of events draws her into two reluctant relationships: one with Alex, a widowed store owner with a kind heart and two young children; and another with her plainspoken single neighbor, Jo. Despite her reservations, Katie slowly begins to let down her guard, putting down roots in the close-knit community and becoming increasingly attached to Alex and his family.&lt;br&gt;&lt;br&gt;But even as Katie begins to fall in love, she struggles with the dark secret that still haunts and terrifies her . . . a past that set her on a fearful, shattering journey across the country, to the sheltered oasis of Southport. With Jo’s empathic and stubborn support, Katie eventually realizes that she must choose between a life of transient safety and one of riskier rewards . . . and that in the darkest hour, love is the only true safe haven.</description>
+<authors>
+<author>
+<id>2345</id>
+<name>Nicholas Sparks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p5/2345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p2/2345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2345.Nicholas_Sparks]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>3989411</ratings_count>
+<text_reviews_count>120947</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:02:20 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:02:20 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232795670]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232795670]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232795251</id>
+    <book>
+  <id type="integer">9418327</id>
+  <isbn>1609419693</isbn>
+  <isbn13>9781609419691</isbn13>
+  <text_reviews_count type="integer">22909</text_reviews_count>
+  <title>Bossypants</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9418327-bossypants</link>
+  <num_pages>272</num_pages>
+  <format>Audio CD</format>
+  <edition_information/>
+  <publisher>Hachette Audio</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>484387</ratings_count>
+  <description>Before Liz Lemon, before "Weekend Update," before "Sarah Palin," Tina Fey was just a young girl with a dream: a recurring stress dream that she was being chased through a local airport by her middle-school gym teacher. She also had a dream that one day she would be a comedian on TV.&lt;br&gt;&lt;br&gt;She has seen both these dreams come true.&lt;br&gt;&lt;br&gt;At last, Tina Fey's story can be told. From her youthful days as a vicious nerd to her tour of duty on &lt;em&gt;Saturday Night Live&lt;/em&gt;; from her passionately halfhearted pursuit of physical beauty to her life as a mother eating things off the floor; from her one-sided college romance to her nearly fatal honeymoon—from the beginning of this paragraph to this final sentence.&lt;br&gt;&lt;br&gt;Tina Fey reveals all, and proves what we've all suspected: you're no one until someone calls you bossy.&lt;br&gt;&lt;br&gt;&lt;em&gt;(Includes Special, Never-Before-Solicited Opinions on Breastfeeding, Princesses, Photoshop, the Electoral Process, and Italian Rum Cake!)&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;An unabridged recording on 5 CDs (5.5 Hours).&lt;/em&gt;</description>
+<authors>
+<author>
+<id>4385839</id>
+<name>Tina Fey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286658273p5/4385839.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286658273p2/4385839.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4385839.Tina_Fey]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>484387</ratings_count>
+<text_reviews_count>31751</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 08 08:01:45 -0800 2011</date_added>
+  <date_updated>Tue Nov 08 08:01:45 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232795251]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232795251]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>232795331</id>
+    <book>
+  <id type="integer">10884</id>
+  <isbn>0743264738</isbn>
+  <isbn13>9780743264730</isbn13>
+  <text_reviews_count type="integer">1869</text_reviews_count>
+  <title>Einstein: His Life and Universe</title>
+  <image_url>https://d.gr-assets.com/books/1328011405m/10884.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328011405s/10884.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10884.Einstein</link>
+  <num_pages>680</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>64314</ratings_count>
+  <description>By the author of the acclaimed bestsellers &lt;em&gt;Benjamin Franklin &lt;/em&gt;and &lt;em&gt;Steve Jobs&lt;/em&gt;, this is the definitive biography of Albert Einstein.&lt;strong&gt; &lt;/strong&gt;&lt;br&gt;&lt;br&gt;How did his mind work? What made him a genius? Isaacson’s biography shows how his scientific imagination sprang from the rebellious nature of his personality. His fascinating story is a testament to the connection between creativity and freedom.&lt;br&gt;&lt;br&gt; Based on newly released personal letters of Einstein, this book explores how an imaginative, impertinent patent clerk—a struggling father in a difficult marriage who couldn’t get a teaching job or a doctorate—became the mind reader of the creator of the cosmos, the locksmith of the mysteries of the atom, and the universe. His success came from questioning conventional wisdom and marveling at mysteries that struck others as mundane. This led him to embrace a morality and politics based on respect for free minds, free spirits, and free individuals.&lt;br&gt;&lt;br&gt; These traits are just as vital for this new century of globalization, in which our success will depend on our creativity, as they were for the beginning of the last century, when Einstein helped usher in the modern age.</description>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1192222433p5/7111.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1192222433p2/7111.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>526024</ratings_count>
+<text_reviews_count>18241</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Feb 09 11:48:38 -0800 2012</started_at>
+  <read_at>Sun Feb 19 06:48:51 -0800 2012</read_at>
+  <date_added>Tue Nov 08 08:01:17 -0800 2011</date_added>
+  <date_updated>Sun Feb 19 06:48:51 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/232795331]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/232795331]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>228709463</id>
+    <book>
+  <id type="integer">12863506</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>When You Don't Know</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12863506-when-you-don-t-know</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>7</ratings_count>
+  <description>A young black gay man coming into his own in Detroit in the 80s.</description>
+<authors>
+<author>
+<id>5271163</id>
+<name>Tony Manson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1318565779p5/5271163.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1318565779p2/5271163.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5271163.Tony_Manson]]></link>
+<average_rating>4.57</average_rating>
+<ratings_count>7</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 29 08:24:15 -0700 2011</date_added>
+  <date_updated>Sat Oct 29 08:24:47 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/228709463]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/228709463]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208520997</id>
+    <book>
+  <id type="integer">4859743</id>
+  <isbn>1414324324</isbn>
+  <isbn13>9781414324326</isbn13>
+  <text_reviews_count type="integer">425</text_reviews_count>
+  <title>Fireflies in December</title>
+  <image_url>https://d.gr-assets.com/books/1406514426m/4859743.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1406514426s/4859743.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4859743-fireflies-in-december</link>
+  <num_pages>344</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tyndale House Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>3355</ratings_count>
+  <description>2010 Christy Award winner!&lt;br&gt;Jessilyn Lassiter never knew that hatred could lurk in the human heart until the summer of 1932 when she turned 13. When her best friend, Gemma, loses her parents in a tragic fire, Jessilyn's father vows to care for her as one of his own, despite the fact that Gemma is black and prejudice is prevalent in their southern Virginia town. Violence springs up as a ragtag band of Ku Klux Klan members unite and decide to take matters into their own hands. As tensions mount in the small community, loyalties are tested and Jessilyn is forced to say good-bye to the carefree days of her youth. &lt;em&gt;Fireflies in December&lt;/em&gt; is the 2007 winner of the Christian Writers Guild's Operation First Novel contest.</description>
+<authors>
+<author>
+<id>2022437</id>
+<name>Jennifer Erin Valent</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224627750p5/2022437.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224627750p2/2022437.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2022437.Jennifer_Erin_Valent]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>4729</ratings_count>
+<text_reviews_count>641</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:11:09 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:11:09 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208520997]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208520997]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208520777</id>
+    <book>
+  <id type="integer">152407</id>
+  <isbn>0671023470</isbn>
+  <isbn13>9780671023478</isbn13>
+  <text_reviews_count type="integer">89</text_reviews_count>
+  <title>Lady Boss</title>
+  <image_url>https://d.gr-assets.com/books/1292098322m/152407.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1292098322s/152407.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/152407.Lady_Boss</link>
+  <num_pages>640</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>4859</ratings_count>
+  <description>&lt;br&gt;&lt;strong&gt;The dangerously beautiful &lt;em&gt;Lucky&lt;/em&gt;&lt;/strong&gt; -- star of two of Jackie Collins' previous smash, international number one bestsellers, &lt;strong&gt;
+  &lt;em&gt;Chances&lt;/em&gt;
+&lt;/strong&gt; and &lt;strong&gt;
+  &lt;em&gt;Lucky&lt;/em&gt;
+&lt;/strong&gt; -- returns in &lt;strong&gt;
+  &lt;em&gt;Lady Boss.&lt;/em&gt;
+&lt;/strong&gt; And this time the shockingly sensual, ruthlessly clever Lucky is out to conquer Hollywood! &lt;p&gt; &lt;strong&gt;In &lt;em&gt;Chances&lt;/em&gt; Lucky&lt;/strong&gt; grew up in a top crime family. In &lt;strong&gt;&lt;em&gt;Lucky,&lt;/em&gt;&lt;/strong&gt; she was married three times. And now, in &lt;strong&gt;&lt;em&gt;Lady Boss,&lt;/em&gt;&lt;/strong&gt; she takes on Hollywood and wins!&lt;/p&gt;&lt;p&gt; &lt;strong&gt;Panther Studios is the prize&lt;/strong&gt; and Lucky wants it... In her quest for power she meets adversaries and enemies, friends and betrayers. And her relationship with her husband, charismatic comedian and movie star, &lt;strong&gt;Lennie Golden&lt;/strong&gt; is put to the test. &lt;/p&gt;&lt;p&gt; &lt;strong&gt;Lucky's first challenge&lt;/strong&gt; is to buy the only movie studio still not controlled by a powerful conglomerate -- Panther Studios, owned by the retired, irascible, old &lt;strong&gt;Abe Panther.&lt;/strong&gt; But Abe won't sell his beloved studio to Lucky until she proves she has the guts to make it in Hollywood. It's his idea that she disguise herself as a secretary and go in undercover to find out what's &lt;em&gt;really&lt;/em&gt; going on. It's a challenge that also satisfies Lucky's passion for adventure -- and her desire to take chances...&lt;/p&gt;&lt;p&gt; &lt;strong&gt;In the process&lt;/strong&gt;, Lucky uncovers a world of financial scheming, big-time betrayal, and bizarre sex. &lt;/p&gt;&lt;p&gt; &lt;strong&gt;Panther Studios&lt;/strong&gt; and Lucky Santangelo... a dangerous mix...&lt;/p&gt;&lt;p&gt; &lt;strong&gt;When Lucky makes her final move&lt;/strong&gt;, assuming the role of &lt;strong&gt;&lt;em&gt;Lady Boss &lt;/em&gt;&lt;/strong&gt; at Panther Studios, she stuns the entire industry and sets off a series of shock waves, not only threatening her marriage to Lennie, but bringing down on her head the hatred of crime boss &lt;strong&gt;Carlos Bonnatti&lt;/strong&gt; -- a hatred that goes back generations, putting in peril her life, and the lives of everyone close to her! &lt;/p&gt;&lt;p&gt; &lt;strong&gt;With &lt;em&gt;Lady Boss,&lt;/em&gt; Jackie Collins&lt;/strong&gt; brings back one of her most intriguing and endearing characters, &lt;strong&gt;Lucky Santangelo.&lt;/strong&gt; She also proves once again that she is the unquestioned queen of glamorous fiction.&lt;br&gt;&lt;/p&gt;</description>
+<authors>
+<author>
+<id>49699</id>
+<name>Jackie Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438195746p5/49699.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438195746p2/49699.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49699.Jackie_Collins]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>101407</ratings_count>
+<text_reviews_count>3936</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:10:20 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:10:20 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208520777]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208520777]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208520598</id>
+    <book>
+  <id type="integer">10065711</id>
+  <isbn>1936400731</isbn>
+  <isbn13>9781936400737</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Before Truth Set Me Free: Behind the Music to Behind Bars - A Memoir</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10065711-before-truth-set-me-free</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mill City Press, Inc.</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>FROM A TOP LEVEL EXECUTIVE IN THE MUSIC GAME TO A MAXIMUM SECURITY PRISON... WHERE DID IT ALL GO WRONG FOR SWEET VANESSA? FIND OUT IN THIS ENTHRALLING, UNPUTDOWNABLE, BEAUTIFULLY WRITTEN, CAUTIONARY MEMOIR. When Vanessa copped a gig at a now-defunct record label-a label whose roster included platinum-selling artists-she was certain that money, power, and fame were right around the corner. However, she couldn't have foreseen the maximum security prison that was waiting around that corner to snatch her up and strip her of the tiny piece of dignity she'd been struggling to keep.&lt;br&gt;&lt;br&gt;In time, she would discover that her dignity and the high seat she sat on in the music game weren't the only things in life she'd been stripped of. "Before Truth Set Me Free" chronicles Vanessa's life BEFORE Truth stepped in, setting her free from some of the greatest lies ever told.</description>
+<authors>
+<author>
+<id>4544283</id>
+<name><![CDATA[Vanessa "Fluffy" Murray-Yisrael]]></name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4544283.Vanessa_Fluffy_Murray_Yisrael]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>8</ratings_count>
+<text_reviews_count>5</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:09:42 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:09:47 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208520598]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208520598]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208520427</id>
+    <book>
+  <id type="integer">8171378</id>
+  <isbn>0679444327</isbn>
+  <isbn13>9780679444329</isbn13>
+  <text_reviews_count type="integer">3446</text_reviews_count>
+  <title>The Warmth of Other Suns: The Epic Story of America's Great Migration</title>
+  <image_url>https://d.gr-assets.com/books/1433354252m/8171378.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1433354252s/8171378.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8171378-the-warmth-of-other-suns</link>
+  <num_pages>622</num_pages>
+  <format>Hardcover</format>
+  <edition_information>1st</edition_information>
+  <publisher>Random House</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>27447</ratings_count>
+  <description>In this epic, beautifully written masterwork, Pulitzer Prize–winning author Isabel Wilkerson chronicles one of the great untold stories of American history: the decades-long migration of black citizens who fled the South for northern and western cities, in search of a better life. From 1915 to 1970, this exodus of almost six million people changed the face of America. Wilkerson compares this epic migration to the migrations of other peoples in history. She interviewed more than a thousand people, and gained access to new data and official records, to write this definitive and vividly dramatic account of how these American journeys unfolded, altering our cities, our country, and ourselves.&lt;br&gt;&lt;br&gt;With stunning historical detail, Wilkerson tells this story through the lives of three unique individuals: Ida Mae Gladney, who in 1937 left sharecropping and prejudice in Mississippi for Chicago, where she achieved quiet blue-collar success and, in old age, voted for Barack Obama when he ran for an Illinois Senate seat; sharp and quick-tempered George Starling, who in 1945 fled Florida for Harlem, where he endangered his job fighting for civil rights, saw his family fall, and finally found peace in God; and Robert Foster, who left Louisiana in 1953 to pursue a medical career, the personal physician to Ray Charles as part of a glitteringly successful medical career, which allowed him to purchase a grand home where he often threw exuberant parties.&lt;br&gt;&lt;br&gt;Wilkerson brilliantly captures their first treacherous and exhausting cross-country trips by car and train and their new lives in colonies that grew into ghettos, as well as how they changed these cities with southern food, faith, and culture and improved them with discipline, drive, and hard work. Both a riveting microcosm and a major assessment, &lt;em&gt;The Warmth of Other Suns&lt;/em&gt; is a bold, remarkable, and riveting work, a superb account of an “unrecognized immigration” within our own land. Through the breadth of its narrative, the beauty of the writing, the depth of its research, and the fullness of the people and lives portrayed herein, this book is destined to become a classic.</description>
+<authors>
+<author>
+<id>3567958</id>
+<name>Isabel Wilkerson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332381807p5/3567958.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332381807p2/3567958.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3567958.Isabel_Wilkerson]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>27453</ratings_count>
+<text_reviews_count>3722</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:09:03 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:09:10 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208520427]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208520427]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208520148</id>
+    <book>
+  <id type="integer">14554</id>
+  <isbn>0006479677</isbn>
+  <isbn13>9780006479673</isbn13>
+  <text_reviews_count type="integer">1146</text_reviews_count>
+  <title>If Tomorrow Comes (Tracy Whitney Series, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14554.If_Tomorrow_Comes</link>
+  <num_pages>501</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow and Co., Inc.</publisher>
+  <publication_day/>
+  <publication_year>1985</publication_year>
+  <publication_month/>
+  <average_rating>3.99</average_rating>
+  <ratings_count>42003</ratings_count>
+  <description>This is a story of intrigue and revenge. Tracy Whitney is young, beautiful and intelligent - and about to marry into wealth and glamour. Until, suddenly, she is betrayed, framed by a ruthless Mafia gang, abandoned by the man she loves. Only her ingenuity saves her and helps her fight back.</description>
+<authors>
+<author>
+<id>9068</id>
+<name>Sidney Sheldon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209169297p5/9068.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209169297p2/9068.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9068.Sidney_Sheldon]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>417632</ratings_count>
+<text_reviews_count>11835</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:08:04 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:08:09 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208520148]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208520148]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208520033</id>
+    <book>
+  <id type="integer">136167</id>
+  <isbn>0440060672</isbn>
+  <isbn13>9780440060673</isbn13>
+  <text_reviews_count type="integer">546</text_reviews_count>
+  <title>The Other Side of Midnight</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/136167.The_Other_Side_of_Midnight</link>
+  <num_pages>462</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Dell Publishing Co., Inc.</publisher>
+  <publication_day/>
+  <publication_year>1975</publication_year>
+  <publication_month/>
+  <average_rating>3.88</average_rating>
+  <ratings_count>32500</ratings_count>
+  <description>An innocent American girl becomes a bewildered pawn in a game of vengeance and betrayal.</description>
+<authors>
+<author>
+<id>9068</id>
+<name>Sidney Sheldon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209169297p5/9068.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209169297p2/9068.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9068.Sidney_Sheldon]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>417632</ratings_count>
+<text_reviews_count>11835</text_reviews_count>
+</author>
+</authors>
+  <published>1975</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:07:41 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:07:41 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208520033]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208520033]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208519991</id>
+    <book>
+  <id type="integer">43330</id>
+  <isbn>0006472613</isbn>
+  <isbn13>9780006472612</isbn13>
+  <text_reviews_count type="integer">951</text_reviews_count>
+  <title>Master of the Game</title>
+  <image_url>https://d.gr-assets.com/books/1170095440m/43330.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1170095440s/43330.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43330.Master_of_the_Game</link>
+  <num_pages>489</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Collins Publisher</publisher>
+  <publication_day/>
+  <publication_year>1993</publication_year>
+  <publication_month/>
+  <average_rating>4.08</average_rating>
+  <ratings_count>37793</ratings_count>
+  <description>One of Sidney Sheldon's most popular and bestselling titles, repackaged and reissued for a new generation of fans. Kate Blackwell is one of the richest and most powerful women in the world. She is an enigma, a woman surrounded by a thousand unanswered questions. Her father was a diamond prospector who struck it rich beyond his wildest dreams. Her mother was the daughter of a crooked Afrikaaner merchant. Her conception was itself an act of hate-filled vengeance. At the extravagent celebrations of her ninetieth birthday, there are toasts from a Supreme Court Judge and a telegram from the White House. And for Kate there are ghosts, ghosts of absent friends and of enemies. Ghosts from a life of blackmail and murder. Ghosts from an empire spawned by naked ambition! Sidney Sheldon is one of the most popular storytellers in the world. This is one of his best-loved novels, a compulsively readable thriller, packed with suspense, intrigue and passion. It will recruit a new generation of fans to his writing.</description>
+<authors>
+<author>
+<id>9068</id>
+<name>Sidney Sheldon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209169297p5/9068.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209169297p2/9068.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9068.Sidney_Sheldon]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>417632</ratings_count>
+<text_reviews_count>11835</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 14 22:07:34 -0700 2011</date_added>
+  <date_updated>Wed Sep 14 22:07:34 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208519991]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208519991]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

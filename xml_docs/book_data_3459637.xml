@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>3459637</id>
+  <title>لماذا أخشى أن أقول لك من أنا؟</title>
+  <isbn><![CDATA[2721411144]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[US]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>دار المشرق - بيروت</publisher>
+  <language_code>ara</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[يحاول جان باول، بكل ما أُعطيَّ من نفاذ بصيرة، أن يلج في كتابه "لماذا أخشى أن أقول لك مَنْ أنا؟"، إلى عمق الوعي الذاتي ويفهم معنى الاتصال الشخصي بالآخر. كل ذلك بغية مساعدة المرء كي يطوّر نظرته إلى ذاته وينمّي علاقاته بالآخرين. نحن نخاف أن يرفضنا الآخرون ونخشى كذلك أن يضنّ الآخرون بحبِّهم لنا إذا ما انجلت لهم حقيقة واقعنا. لذا غالباً ما نلجأ إلى "التمثيل" علّنا نوفّر عناء الصدق مع ذواتنا ومع الآخرين. لقد ميّز جان باول مستويات خمسة في فهمه للاتصال الشخصي، وهو يرى أن مستوى علاقتي أو عمقها إنما يتحدّد من خلال نوعية المعلومات التي بها أبوح.<br>مَنْ أنتَ؟ أتراك "الشهيد؟" أم "الجسد الجميل؟" أم "المهرج"، "المنافس"، "المتهكّم؟" أم أنك تتستّر في ظل أحد تلك الأدوار العديدة علّك تجد فيها حماية لنفسك؟ عندما نواجه مخاوفنا بصراحة وصدق، وعند ذلك فقط، نتعلَّم كيف نقبل ذواتنا ونثق بأنّ الآخرين يقبلوننا كما نحن في حقيقتنا.]]></description>
+  <work>
+  <id type="integer">229348</id>
+  <books_count type="integer">11</books_count>
+  <best_book_id type="integer">236788</best_book_id>
+  <reviews_count type="integer">1773</reviews_count>
+  <ratings_sum type="integer">2260</ratings_sum>
+  <ratings_count type="integer">561</ratings_count>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <original_publication_year type="integer">1969</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Why Am I Afraid to Tell You Who I Am? Insights into Personal Growth</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:206|4:205|3:117|2:26|1:7|total:561</rating_dist>
+  <desc_user_id type="integer">6882436</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.03</average_rating>
+  <num_pages><![CDATA[143]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[8th edition]]></edition_information>
+  <ratings_count><![CDATA[87]]></ratings_count>
+  <text_reviews_count><![CDATA[10]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3459637]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3459637]]></link>
+  <authors>
+<author>
+<id>6533733</id>
+<name>John Joseph Powell</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6533733.John_Joseph_Powell]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522</ratings_count>
+<text_reviews_count>142</text_reviews_count>
+</author>
+<author>
+<id>1456972</id>
+<name>الأب جان باول اليسوعي</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1456972._]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>391</ratings_count>
+<text_reviews_count>59</text_reviews_count>
+</author>
+<author>
+<id>8259507</id>
+<name>المطران بولس الصياح</name>
+<role>ترجمة</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400745732p5/8259507.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400745732p2/8259507.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8259507._]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>391</ratings_count>
+<text_reviews_count>59</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/3459637">لماذا أخشى أن أقول لك من أنا؟ Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=2721411144&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" href="https://www.goodreads.com/book/show/3459637?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="191"/>
+      <shelf name="currently-reading" count="47"/>
+      <shelf name="psychology" count="21"/>
+      <shelf name="non-fiction" count="18"/>
+      <shelf name="self-help" count="14"/>
+      <shelf name="nonfiction" count="7"/>
+      <shelf name="favorites" count="5"/>
+      <shelf name="spirituality" count="5"/>
+      <shelf name="relationships" count="4"/>
+      <shelf name="books-i-have" count="2"/>
+      <shelf name="religion" count="2"/>
+      <shelf name="spiritual" count="2"/>
+      <shelf name="communication" count="2"/>
+      <shelf name="personal-growth" count="2"/>
+      <shelf name="personal-development" count="2"/>
+      <shelf name="personal" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="books-i-own" count="2"/>
+      <shelf name="faith" count="2"/>
+      <shelf name="20th-century" count="2"/>
+      <shelf name="reference" count="2"/>
+      <shelf name="read-in-midlife" count="1"/>
+      <shelf name="read-for-work" count="1"/>
+      <shelf name="clinical-social-work" count="1"/>
+      <shelf name="category2" count="1"/>
+      <shelf name="steiner-education" count="1"/>
+      <shelf name="leadership-flagship" count="1"/>
+      <shelf name="human-nature-personal-growth" count="1"/>
+      <shelf name="self-growth" count="1"/>
+      <shelf name="to-buy" count="1"/>
+      <shelf name="not-in-library" count="1"/>
+      <shelf name="later" count="1"/>
+      <shelf name="2007-anteriores" count="1"/>
+      <shelf name="it-s-a-click" count="1"/>
+      <shelf name="before" count="1"/>
+      <shelf name="couples" count="1"/>
+      <shelf name="office" count="1"/>
+      <shelf name="book-fair" count="1"/>
+      <shelf name="ebooks" count="1"/>
+      <shelf name="jospeh" count="1"/>
+      <shelf name="woman" count="1"/>
+      <shelf name="self-help-popular-psychology" count="1"/>
+      <shelf name="الأب-جان-باول-اليسوعي" count="1"/>
+      <shelf name="psychology-self-help" count="1"/>
+      <shelf name="pschology-personal" count="1"/>
+      <shelf name="to-purchase" count="1"/>
+      <shelf name="w" count="1"/>
+      <shelf name="علم-نفس" count="1"/>
+      <shelf name="كتب-مترجمة" count="1"/>
+      <shelf name="قراءتي-الأولى-للمؤلف" count="1"/>
+      <shelf name="علم-نفس-واجتماع" count="1"/>
+      <shelf name="علم-نفس-وتنمية-شخصية" count="1"/>
+      <shelf name="interpersonal" count="1"/>
+      <shelf name="assertiveness" count="1"/>
+      <shelf name="mine" count="1"/>
+      <shelf name="livro-de-bolso" count="1"/>
+      <shelf name="جان-باول-اليسوعى" count="1"/>
+      <shelf name="health-and-wellness" count="1"/>
+      <shelf name="must-read" count="1"/>
+      <shelf name="10-36-00-00-psicologia-psiquiatria" count="1"/>
+      <shelf name="10-00-00-00-temas" count="1"/>
+      <shelf name="to-read-non-sf" count="1"/>
+      <shelf name="81-mental-disorders" count="1"/>
+      <shelf name="default" count="1"/>
+      <shelf name="family" count="1"/>
+      <shelf name="community" count="1"/>
+      <shelf name="church" count="1"/>
+      <shelf name="to-read-again" count="1"/>
+      <shelf name="e-book" count="1"/>
+      <shelf name="life-changing" count="1"/>
+      <shelf name="own-but-not-read" count="1"/>
+      <shelf name="by-suggestion" count="1"/>
+      <shelf name="werkk-school-psychology" count="1"/>
+      <shelf name="short-to-read-stories-in-case-of-no" count="1"/>
+      <shelf name="books-2015" count="1"/>
+      <shelf name="self" count="1"/>
+      <shelf name="american-canadian-literature" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="zoe" count="1"/>
+      <shelf name="before-2009" count="1"/>
+      <shelf name="i-own" count="1"/>
+      <shelf name="core" count="1"/>
+      <shelf name="self-helping" count="1"/>
+      <shelf name="dtb" count="1"/>
+      <shelf name="لماذا-اخشي-اناقول-من-انا" count="1"/>
+      <shelf name="دراسات-نفسية" count="1"/>
+      <shelf name="to-consider-non-fiction" count="1"/>
+      <shelf name="to-consider" count="1"/>
+      <shelf name="self-help-family-parenting" count="1"/>
+      <shelf name="plan2014" count="1"/>
+      <shelf name="own-hard-copy" count="1"/>
+      <shelf name="80-psychology" count="1"/>
+      <shelf name="books-read-pre-2000" count="1"/>
+      <shelf name="in-library" count="1"/>
+      <shelf name="tough-life-issues" count="1"/>
+      <shelf name="revival" count="1"/>
+      <shelf name="counseling" count="1"/>
+      <shelf name="others" count="1"/>
+      <shelf name="sociology" count="1"/>
+      <shelf name="professional" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>210143</id>
+<title><![CDATA[The Emotional Incest Syndrome: What to do When a Parent's Love Rules Your Life]]></title>
+<title_without_series><![CDATA[The Emotional Incest Syndrome: What to do When a Parent's Love Rules Your Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/210143.The_Emotional_Incest_Syndrome]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>203401</id>
+</work>
+<isbn>055335275X</isbn>
+<isbn13>9780553352757</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>98</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45724</id>
+<name>Patricia Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45724.Patricia_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>751615</id>
+<title><![CDATA[Psyche and Symbol: A Selection from the Writings of C.G. Jung]]></title>
+<title_without_series><![CDATA[Psyche and Symbol: A Selection from the Writings of C.G. Jung]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/751615.Psyche_and_Symbol]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>737751</id>
+</work>
+<isbn>0691019037</isbn>
+<isbn13>9780691019031</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>168</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>38285</id>
+<name>C.G. Jung</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38285.C_G_Jung]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1098624</id>
+<title><![CDATA[When I Say No, I Feel Guilty: How to Cope - Using the Skills of Systematic Assertive Therapy]]></title>
+<title_without_series><![CDATA[When I Say No, I Feel Guilty: How to Cope - Using the Skills of Systematic Assertive Therapy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1098624.When_I_Say_No_I_Feel_Guilty]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1337001345s/1098624.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1337001345m/1098624.jpg]]></image_url>
+<work>
+<id>1085484</id>
+</work>
+<isbn>0553263900</isbn>
+<isbn13>9780553263909</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>692</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5697</id>
+<name>Manuel J. Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5697.Manuel_J_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>321244</id>
+<title><![CDATA[Healing the Scars of Emotional Abuse]]></title>
+<title_without_series><![CDATA[Healing the Scars of Emotional Abuse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/321244.Healing_the_Scars_of_Emotional_Abuse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>311977</id>
+</work>
+<isbn>0800758714</isbn>
+<isbn13>9780800758714</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>67</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>301025</id>
+<name>Gregory L. Jantz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/301025.Gregory_L_Jantz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>405881</id>
+<title><![CDATA[Emotional Unavailability: Recognizing It, Understanding It, and Avoiding Its Trap]]></title>
+<title_without_series><![CDATA[Emotional Unavailability: Recognizing It, Understanding It, and Avoiding Its Trap]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/405881.Emotional_Unavailability]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>395227</id>
+</work>
+<isbn>0809229145</isbn>
+<isbn13>9780809229147</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>121</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>229908</id>
+<name>Bryn C. Collins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229908.Bryn_C_Collins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>96100</id>
+<title><![CDATA[False Intimacy: Understanding the Struggle of Sexual Addiction]]></title>
+<title_without_series><![CDATA[False Intimacy: Understanding the Struggle of Sexual Addiction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96100.False_Intimacy]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1369869185s/96100.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1369869185m/96100.jpg]]></image_url>
+<work>
+<id>92622</id>
+</work>
+<isbn>1576830284</isbn>
+<isbn13>9781576830284</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>89</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>55261</id>
+<name>Harry  Schaumburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55261.Harry_Schaumburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>909586</id>
+<title><![CDATA[Recovery of Your Inner Child: The Highly Acclaimed Method for Liberating Your Inner Self]]></title>
+<title_without_series><![CDATA[Recovery of Your Inner Child: The Highly Acclaimed Method for Liberating Your Inner Self]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/909586.Recovery_of_Your_Inner_Child]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>894723</id>
+</work>
+<isbn>0671701355</isbn>
+<isbn13>9780671701352</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>132</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>156160</id>
+<name>Lucia Capacchione</name>
+<link><![CDATA[https://www.goodreads.com/author/show/156160.Lucia_Capacchione]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13538647</id>
+<title>Codependency for Dummies</title>
+<title_without_series>Codependency for Dummies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13538647-codependency-for-dummies]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1335808081s/13538647.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1335808081m/13538647.jpg]]></image_url>
+<work>
+<id>19100990</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>47</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5773757</id>
+<name>Darlene Lancer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5773757.Darlene_Lancer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1115931</id>
+<title><![CDATA[Adult Children of Abusive Parents]]></title>
+<title_without_series><![CDATA[Adult Children of Abusive Parents]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1115931.Adult_Children_of_Abusive_Parents]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1339923180s/1115931.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1339923180m/1115931.jpg]]></image_url>
+<work>
+<id>1102942</id>
+</work>
+<isbn>0345363884</isbn>
+<isbn13>9780345363886</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>101</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>147600</id>
+<name>Steven Farmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147600.Steven_Farmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20556323</id>
+<title><![CDATA[Complex PTSD: From Surviving to Thriving]]></title>
+<title_without_series><![CDATA[Complex PTSD: From Surviving to Thriving]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20556323-complex-ptsd]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>38688458</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.61</average_rating>
+<ratings_count>122</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27800</id>
+<name>Pete Walker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27800.Pete_Walker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9593379</id>
+<title><![CDATA[Coping with Trauma-Related Dissociation: Skills Training for Patients and Therapists]]></title>
+<title_without_series><![CDATA[Coping with Trauma-Related Dissociation: Skills Training for Patients and Therapists]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9593379-coping-with-trauma-related-dissociation]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1388106649s/9593379.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1388106649m/9593379.jpg]]></image_url>
+<work>
+<id>14480387</id>
+</work>
+<isbn>039370646X</isbn>
+<isbn13>9780393706468</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>83</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4430594</id>
+<name>Suzette Boon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4430594.Suzette_Boon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>677218</id>
+<title><![CDATA[Post-Traumatic Stress Disorder Sourcebook]]></title>
+<title_without_series><![CDATA[Post-Traumatic Stress Disorder Sourcebook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/677218.Post_Traumatic_Stress_Disorder_Sourcebook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>663217</id>
+</work>
+<isbn>0737302658</isbn>
+<isbn13>9780737302653</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>155</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>105225</id>
+<name>Glenn R. Schiraldi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105225.Glenn_R_Schiraldi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8520103</id>
+<title><![CDATA[Smart Women Know When to Say No]]></title>
+<title_without_series><![CDATA[Smart Women Know When to Say No]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8520103-smart-women-know-when-to-say-no]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>13386882</id>
+</work>
+<isbn>0800788052</isbn>
+<isbn13>9780800788056</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>72</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>36931</id>
+<name>Kevin Leman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36931.Kevin_Leman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>110050</id>
+<title><![CDATA[We: Understanding the Psychology of Romantic Love]]></title>
+<title_without_series><![CDATA[We: Understanding the Psychology of Romantic Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/110050.We]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>106067</id>
+</work>
+<isbn>0062504363</isbn>
+<isbn13>9780062504364</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>786</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>6258</id>
+<name>Robert A. Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6258.Robert_A_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>72643</id>
+<title><![CDATA[Developing Intuition: Practical Guidance for Daily Life]]></title>
+<title_without_series><![CDATA[Developing Intuition: Practical Guidance for Daily Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/72643.Developing_Intuition]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>70317</id>
+</work>
+<isbn>1577311868</isbn>
+<isbn13>9781577311867</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>188</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>41093</id>
+<name>Shakti Gawain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41093.Shakti_Gawain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>129711</id>
+<title><![CDATA[The Emotionally Abusive Relationship: How to Stop Being Abused and How to Stop Abusing]]></title>
+<title_without_series><![CDATA[The Emotionally Abusive Relationship: How to Stop Being Abused and How to Stop Abusing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129711.The_Emotionally_Abusive_Relationship]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1385354032s/129711.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1385354032m/129711.jpg]]></image_url>
+<work>
+<id>124931</id>
+</work>
+<isbn>0471454036</isbn>
+<isbn13>0723812595839</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>157</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>74593</id>
+<name>Beverly Engel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74593.Beverly_Engel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>831367</id>
+<title><![CDATA[Beyond Codependency: And Getting Better All the Time]]></title>
+<title_without_series><![CDATA[Beyond Codependency: And Getting Better All the Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/831367.Beyond_Codependency]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1344692797s/831367.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1344692797m/831367.jpg]]></image_url>
+<work>
+<id>2324030</id>
+</work>
+<isbn>0894865838</isbn>
+<isbn13>9780894865831</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1861</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4482</id>
+<name>Melody Beattie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4482.Melody_Beattie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9268619</id>
+<title><![CDATA[The Emotionally Absent Mother: A Guide to Self-Healing and Getting the Love You Missed]]></title>
+<title_without_series><![CDATA[The Emotionally Absent Mother: A Guide to Self-Healing and Getting the Love You Missed]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9268619-the-emotionally-absent-mother]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1404579052s/9268619.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1404579052m/9268619.jpg]]></image_url>
+<work>
+<id>14150242</id>
+</work>
+<isbn>1615190287</isbn>
+<isbn13>9781615190287</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>242</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>155038</id>
+<name>Jasmin Lee Cori</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155038.Jasmin_Lee_Cori]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

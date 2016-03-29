@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[user_show]]></method>
+  </Request>
+  <user>
+  <id>53260310</id>
+  <name>Mithil Mahesh</name>
+  <user_name></user_name>
+  <link><![CDATA[https://www.goodreads.com/user/show/53260310-mithil-mahesh]]></link>
+  <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+  <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+    <about></about>
+    <age></age>
+    <gender></gender>
+    <location>The United States</location>
+    <website></website>
+    <joined>03/2016</joined>
+    <last_active>03/2016</last_active>
+    <interests></interests>
+    <favorite_books></favorite_books>
+    <favorite_authors>
+    </favorite_authors>
+    <updates_rss_url><![CDATA[https://www.goodreads.com/user/updates_rss/53260310?key=ciBB_N5_rRYNA1Vbaj7HLCN-vnowRaDSM3wzNrAqTTiFdYcf]]></updates_rss_url>
+    <reviews_rss_url><![CDATA[https://www.goodreads.com/review/list_rss/53260310?key=ciBB_N5_rRYNA1Vbaj7HLCN-vnowRaDSM3wzNrAqTTiFdYcf&shelf=%23ALL%23]]></reviews_rss_url>
+    <friends_count type="integer">0</friends_count>
+    <groups_count>0</groups_count>
+    <reviews_count type="integer">0</reviews_count>
+    <user_shelves type="array">
+  <user_shelf>
+    <id type="integer">174055859</id>
+    <name>read</name>
+    <book_count type="integer">0</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">true</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">174055858</id>
+    <name>currently-reading</name>
+    <book_count type="integer">0</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">174055856</id>
+    <name>to-read</name>
+    <book_count type="integer">0</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+</user_shelves>
+      <updates type="array">
+</updates>
+    <user_statuses>
+    </user_statuses>
+</user>
+
+</GoodreadsResponse>

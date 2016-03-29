@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="20" total="58">
+    <review>
+  <id>262335674</id>
+    <book>
+  <id type="integer">63461</id>
+  <isbn>075283455X</isbn>
+  <isbn13>9780752834559</isbn13>
+  <text_reviews_count type="integer">208</text_reviews_count>
+  <title>Terms of Endearment</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/63461.Terms_of_Endearment</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>20016</ratings_count>
+  <description>An Oscar-winning story of a memorable mother and her fiesty daughter who find the courage and humor to live through life's hazards and to love each other as never before. The Pulitzer Prize-winning author of Lonesome Dove created two characters who won the hearts of readers and moviegoers everywhere--Aurora Greenway and her daughter Emma.</description>
+<authors>
+<author>
+<id>1055</id>
+<name>Larry McMurtry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208900166p5/1055.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208900166p2/1055.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1055.Larry_McMurtry]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>204877</ratings_count>
+<text_reviews_count>10388</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:12:29 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:12:29 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335674]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335674]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262336070</id>
+    <book>
+  <id type="integer">37095</id>
+  <isbn>051722285X</isbn>
+  <isbn13>9780517222850</isbn13>
+  <text_reviews_count type="integer">1443</text_reviews_count>
+  <title>The Shell Seekers</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37095.The_Shell_Seekers</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>67302</ratings_count>
+  <description>&lt;em&gt;The Shell Seekers&lt;/em&gt; is a novel of connection: of one family, and of the passions and heartbreak that have held them together for three generations. &lt;em&gt;The Shell Seekers&lt;/em&gt; is filled with real people--mothers and daughters, husband and lovers--inspired with real values. &lt;em&gt;The Shell Seekers&lt;/em&gt; centers on Penelope Keeling--a woman you'll always remember in world you'll never forget. &lt;em&gt;The Shell Seekers&lt;/em&gt; is a magical novel, the kind of reading experience that comes along only once in a long while.&lt;br&gt;&lt;br&gt;At the end of a long and useful life, Penelope Keeling's prized possession is The Shell Seekers, painted by her father, and symbolizing her unconventional life, from bohemian childhood to wartime romance. When her grown children learn their grandfather's work is now worth a fortune, each has an idea as to what Penelope should do. But as she recalls the passions, tragedies, and secrets of her life, she knows there is only one answer...and it lies in her heart.</description>
+<authors>
+<author>
+<id>20849</id>
+<name>Rosamunde Pilcher</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1363607202p5/20849.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1363607202p2/20849.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20849.Rosamunde_Pilcher]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>132791</ratings_count>
+<text_reviews_count>4641</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:12:27 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:12:27 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262336070]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262336070]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262335425</id>
+    <book>
+  <id type="integer">62111</id>
+  <isbn>1402726023</isbn>
+  <isbn13>9781402726026</isbn13>
+  <text_reviews_count type="integer">1102</text_reviews_count>
+  <title>The Swiss Family Robinson</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/62111.The_Swiss_Family_Robinson</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Sterling</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>76716</ratings_count>
+  <description>Shipwrecked passengers on a deserted island: how will they survive? After their ship founders at sea, the Robinsons—father, mother, and four sons—find themselves stranded in an uninhabited, idyllic land. Young readers will enjoy watching them handle every crisis with cleverness and skill.</description>
+<authors>
+<author>
+<id>2897630</id>
+<name>Johann David Wyss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357603686p5/2897630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357603686p2/2897630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2897630.Johann_David_Wyss]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>77702</ratings_count>
+<text_reviews_count>1614</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:11:58 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:11:58 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335425]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335425]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262335750</id>
+    <book>
+  <id type="integer">1219954</id>
+  <isbn>0060594772</isbn>
+  <isbn13>9780060594770</isbn13>
+  <text_reviews_count type="integer">131</text_reviews_count>
+  <title>Beaches</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1219954.Beaches</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>11013</ratings_count>
+  <description>Loudmouthed, redheaded Cee Cee Bloom has her sights set on Hollywood. Bertie White, quiet and conservative, dreams of getting married and having children. In 1951, their childhood worlds collide in Atlantic City. Keeping in touch as pen pals, they reunite over the years ... always near the ocean.&lt;br&gt;&lt;br&gt;Powerful and moving, this novel follows Cee Cee and Bertie's extraordinary friendship over the course of thirty years as they transform from adolescents into adults. A bestselling novel that became a hugely successful film, &lt;em&gt;Beaches&lt;/em&gt; is funny, heartbreaking, and a tale that should be a part of every woman's library.</description>
+<authors>
+<author>
+<id>138020</id>
+<name>Iris Rainer Dart</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/138020.Iris_Rainer_Dart]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>11927</ratings_count>
+<text_reviews_count>224</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:11:38 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:11:38 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335750]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335750]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262335563</id>
+    <book>
+  <id type="integer">236093</id>
+  <isbn>0140621679</isbn>
+  <isbn13>9780140621679</isbn13>
+  <text_reviews_count type="integer">4853</text_reviews_count>
+  <title>The Wonderful Wizard of Oz (Oz, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1398003737m/236093.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1398003737s/236093.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz</link>
+  <num_pages>156</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Popular Classics</edition_information>
+  <publisher>Penguin</publisher>
+  <publication_day/>
+  <publication_year>1995</publication_year>
+  <publication_month/>
+  <average_rating>3.97</average_rating>
+  <ratings_count>243101</ratings_count>
+  <description>Follow the yellow brick road!&lt;br&gt;&lt;br&gt;Dorothy thinks she's lost forever when a tornado whirls her and her dog, Toto, into a magical world. To get home, she must find the wonderful wizard in the Emerald City of Oz. On the way she meets the Scarecrow, the Tin Woodman and the Cowardly Lion. But the Wicked Witch of the West has her own plans for the new arrival - will Dorothy ever see Kansas again?</description>
+<authors>
+<author>
+<id>3242</id>
+<name>L. Frank Baum</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383720421p5/3242.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383720421p2/3242.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3242.L_Frank_Baum]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>386104</ratings_count>
+<text_reviews_count>13694</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:11:10 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:11:10 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335563]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335563]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262335114</id>
+    <book>
+  <id type="integer">890</id>
+  <isbn>0142000671</isbn>
+  <isbn13>9780142000670</isbn13>
+  <text_reviews_count type="integer">16795</text_reviews_count>
+  <title>Of Mice and Men</title>
+  <image_url>https://d.gr-assets.com/books/1437235233m/890.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1437235233s/890.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/890.Of_Mice_and_Men</link>
+  <num_pages>103</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>1322456</ratings_count>
+  <description>The compelling story of two outsiders striving to find their place in an unforgiving world. Drifters in search of work, George and his simple-minded friend Lennie have nothing in the world except each other and a dream--a dream that one day they will have some land of their own. Eventually they find work on a ranch in California’s Salinas Valley, but their hopes are doomed as Lennie, struggling against extreme cruelty, misunderstanding and feelings of jealousy, becomes a victim of his own strength. Tackling universal themes such as the friendship of a shared vision, and giving voice to America’s lonely and dispossessed, &lt;em&gt;Of Mice and Men&lt;/em&gt; has proved one of Steinbeck’s most popular works, achieving success as a novel, a Broadway play and three acclaimed films.</description>
+<authors>
+<author>
+<id>585</id>
+<name>John Steinbeck</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p5/585.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p2/585.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2504899</ratings_count>
+<text_reviews_count>64503</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:11:04 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:11:04 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335114]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335114]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262335095</id>
+    <book>
+  <id type="integer">7624</id>
+  <isbn>0140283331</isbn>
+  <isbn13>9780140283334</isbn13>
+  <text_reviews_count type="integer">17727</text_reviews_count>
+  <title>Lord of the Flies</title>
+  <image_url>https://d.gr-assets.com/books/1327869409m/7624.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327869409s/7624.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7624.Lord_of_the_Flies</link>
+  <num_pages>182</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Great Books of the 20th Century</edition_information>
+  <publisher>Penguin Books </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>1438804</ratings_count>
+  <description>William Golding's compelling story about a group of very ordinary small boys marooned on a coral island has become a modern classic. At first, it seems as though it's all going to be great fun; but the fun before long becomes furious &amp;amp; life on the island turns into a nightmare of panic &amp;amp; death. As ordinary standards of behavior collapse, the whole world the boys know collapses with them—the world of cricket &amp;amp; homework &amp;amp; adventure stories—&amp;amp; another world is revealed beneath, primitive &amp;amp; terrible. &lt;strong&gt;Lord of the Flies&lt;/strong&gt; remains as provocative today as when it was 1st published in 1954, igniting passionate debate with its startling, brutal portrait of human nature. Though critically acclaimed, it was largely ignored upon its initial publication. Yet soon it became a cult favorite among both students and literary critics who compared it to J.D. Salinger's &lt;strong&gt;The Catcher in the Rye&lt;/strong&gt; in its influence on modern thought &amp;amp; literature. Labeled a parable, an allegory, a myth, a morality tale, a parody, a political treatise, even a vision of the apocalypse, &lt;strong&gt;Lord of the Flies&lt;/strong&gt; has established itself as a classic.</description>
+<authors>
+<author>
+<id>306</id>
+<name>William Golding</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1198342496p5/306.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1198342496p2/306.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>1449791</ratings_count>
+<text_reviews_count>23314</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:11:00 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:11:00 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335095]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335095]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262335422</id>
+    <book>
+  <id type="integer">152380</id>
+  <isbn>0152058109</isbn>
+  <isbn13>9780152058104</isbn13>
+  <text_reviews_count type="integer">2092</text_reviews_count>
+  <title>Mary Poppins (Mary Poppins, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1327947805m/152380.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327947805s/152380.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/152380.Mary_Poppins</link>
+  <num_pages>209</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>76845</ratings_count>
+  <description>By P.L. Travers, the author featured in the upcoming movie &lt;em&gt;Saving Mr. Banks&lt;/em&gt;.   From the moment Mary Poppins arrives at Number Seventeen Cherry-Tree Lane, everyday life at the Banks house is forever changed.&lt;br&gt;&lt;br&gt;It all starts when Mary Poppins is blown by the east wind onto the doorstep of the Banks house. She becomes a &lt;em&gt;most&lt;/em&gt; unusual nanny to Jane, Michael, and the twins. Who else but Mary Poppins can slide&lt;em&gt; up&lt;/em&gt; banisters, pull an entire armchair out of an empty carpetbag, and make a dose of medicine taste like delicious lime-juice cordial? A day with Mary Poppins is a day of magic and make-believe come to life!&lt;br&gt;</description>
+<authors>
+<author>
+<id>6872556</id>
+<name>P.L. Travers</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1391347103p5/6872556.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1391347103p2/6872556.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6872556.P_L_Travers]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>97464</ratings_count>
+<text_reviews_count>3374</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:10:45 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:10:45 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262335422]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262335422]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262334994</id>
+    <book>
+  <id type="integer">5297</id>
+  <isbn>0375751513</isbn>
+  <isbn13>9780375751516</isbn13>
+  <text_reviews_count type="integer">10917</text_reviews_count>
+  <title>The Picture of Dorian Gray</title>
+  <image_url>https://d.gr-assets.com/books/1424596966m/5297.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1424596966s/5297.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray</link>
+  <num_pages>254</num_pages>
+  <format>Paperback</format>
+  <edition_information>Modern Library Classics</edition_information>
+  <publisher>Random House: Modern Library</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>551944</ratings_count>
+  <description>&lt;strong&gt;﻿Introduction by Jeffrey Eugenides&lt;/strong&gt;&lt;br&gt;  &lt;br&gt;﻿Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it ﬁrst appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact, “a terrible moral in &lt;em&gt;Dorian Gray&lt;/em&gt;.” Just a few years later, the book and the aesthetic/moral dilemma it presented became issues in the trials occasioned by Wilde’s homosexual liaisons, which resulted in his imprisonment. Of Dorian Gray’s relationship to autobiography, Wilde noted in a letter, “Basil Hallward is what I think I am: Lord Henry what the world thinks me: Dorian what I would like to be—in other ages, perhaps.”</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357460488p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357460488p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>1016121</ratings_count>
+<text_reviews_count>29837</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:09:34 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:09:34 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262334994]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262334994]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262334613</id>
+    <book>
+  <id type="integer">19330</id>
+  <isbn>072325804X</isbn>
+  <isbn13>9780723258049</isbn13>
+  <text_reviews_count type="integer">245</text_reviews_count>
+  <title>The Complete Tales</title>
+  <image_url>https://d.gr-assets.com/books/1355114621m/19330.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1355114621s/19330.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19330.The_Complete_Tales</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Warne</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>52205</ratings_count>
+  <description>This complete and unabridged collection contains all 23 of Beatrix Potter's Tales in one deluxe volume with all their original illustrations. The stories are arranged in the order in which they were first published so they may be read in their proper sequence. A special section at the end of this volume contains four additional works by Beatrix Potter that were not published during her lifetime. Beautifully reissued with a newly designed slipcase and jacket--a truly stunning gift.</description>
+<authors>
+<author>
+<id>11593</id>
+<name>Beatrix Potter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201022492p5/11593.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201022492p2/11593.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11593.Beatrix_Potter]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>293701</ratings_count>
+<text_reviews_count>3882</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:08:44 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:08:44 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262334613]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262334613]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262333851</id>
+    <book>
+  <id type="integer">2998</id>
+  <isbn>0517189607</isbn>
+  <isbn13>9780517189603</isbn13>
+  <text_reviews_count type="integer">7988</text_reviews_count>
+  <title>The Secret Garden</title>
+  <image_url>https://d.gr-assets.com/books/1327873635m/2998.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327873635s/2998.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2998.The_Secret_Garden</link>
+  <num_pages>331</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Children's Classics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>591486</ratings_count>
+  <description>When orphaned Mary Lennox comes to live at her uncle's great house on the Yorkshire Moors, she finds it full of secrets. The mansion has nearly one hundred rooms, and her uncle keeps himself locked up. And at night, she hears the sound of crying down one of the long corridors.&lt;br&gt;&lt;br&gt;The gardens surrounding the large property are Mary's only escape. Then, Mary discovers a secret garden, surrounded by walls and locked with a missing key. One day, with the help of two unexpected companions, she discovers a way in. Is everything in the garden dead, or can Mary bring it back to life?</description>
+<authors>
+<author>
+<id>2041</id>
+<name>Frances Hodgson Burnett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1197934848p5/2041.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1197934848p2/2041.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2041.Frances_Hodgson_Burnett]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>799205</ratings_count>
+<text_reviews_count>17041</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:07:59 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:07:59 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262333851]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262333851]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262333811</id>
+    <book>
+  <id type="integer">47021</id>
+  <isbn>074347757X</isbn>
+  <isbn13>9780743477574</isbn13>
+  <text_reviews_count type="integer">1473</text_reviews_count>
+  <title>The Taming of the Shrew</title>
+  <image_url>https://d.gr-assets.com/books/1327935253m/47021.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327935253s/47021.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/47021.The_Taming_of_the_Shrew</link>
+  <num_pages>291</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>122327</ratings_count>
+  <description>Renowned as Shakespeare's most boisterous comedy, The Taming of the Shrew is the tale of two young men, the hopeful Lucentio and the worldly Petruchio, and the two sisters they meet in Padua. &lt;br&gt;&lt;br&gt;Lucentio falls in love with Bianca, the apparently ideal younger daughter of the wealthy Baptista Minola. But before they can marry, Bianca's formidable elder sister, Katherine, must be wed. Petruchio, interested only in the huge dowry, arranges to marry Katherine -against her will- and enters into a battle of the sexes that has endured as one of Shakespeare's most enjoyable works.</description>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>4457819</ratings_count>
+<text_reviews_count>65480</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:07:57 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:07:57 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262333811]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262333811]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262333596</id>
+    <book>
+  <id type="integer">4395</id>
+  <isbn>0142000663</isbn>
+  <isbn13>9780142000663</isbn13>
+  <text_reviews_count type="integer">7664</text_reviews_count>
+  <title>The Grapes of Wrath</title>
+  <image_url>https://d.gr-assets.com/books/1352912927m/4395.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1352912927s/4395.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4395.The_Grapes_of_Wrath</link>
+  <num_pages>455</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>467334</ratings_count>
+  <description>John Steinbeck's Pulitzer Prize-winning epic of the Great Depression follows the western movement of one family &amp;amp; a nation in search of work &amp;amp; human dignity. Perhaps the most American of American classics. The novel focuses on the Joads, a poor family of sharecroppers driven from their Oklahoma home by drought, economic hardship, &amp;amp; changes in financial &amp;amp; agricultural industries. Due to their nearly hopeless situation, &amp;amp; in part because they were trapped in the Dust Bowl, the Joads set out for California. Along with thousands of other "Okies", they sought jobs, land, dignity &amp;amp; a future. When preparing to write the novel, Steinbeck wrote: "I want to put a tag of shame on the greedy bastards who are responsible for this [the Great Depression &amp;amp; its effects]." The book won Steinbeck a large following among the working class, perhaps due to the book's sympathy to the workers' movement &amp;amp; its accessible prose style.&lt;br&gt;&lt;em&gt;The Grapes of Wrath&lt;/em&gt; is frequently read in American high school &amp;amp; college literature classes. A celebrated Hollywood film version, starring Henry Fonda &amp;amp; directed by John Ford, was made in 1940.</description>
+<authors>
+<author>
+<id>585</id>
+<name>John Steinbeck</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p5/585.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p2/585.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2504899</ratings_count>
+<text_reviews_count>64503</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:07:45 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:07:47 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262333596]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262333596]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262331630</id>
+    <book>
+  <id type="integer">93</id>
+  <isbn>0753454947</isbn>
+  <isbn13>9780753454947</isbn13>
+  <text_reviews_count type="integer">1513</text_reviews_count>
+  <title>Heidi (Heidi, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/93.Heidi</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Kingfisher Classics</edition_information>
+  <publisher>Kingfisher</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>143822</ratings_count>
+  <description>Orphaned Heidi lives with her gruff but caring grandfather on the side of Swiss mountain, where she befriends young Peter the goat-herd. She leads an idyllic life, until she is forced to leave the mountain she has always known to go and live with a sickly girl in the city. Will Heidi ever see her grandfather again? A classic tale of a young girl's coming-of-age, of friendship, and familial love.</description>
+<authors>
+<author>
+<id>49</id>
+<name>Johanna Spyri</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201029829p5/49.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201029829p2/49.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49.Johanna_Spyri]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>147682</ratings_count>
+<text_reviews_count>2395</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:06:10 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:06:10 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262331630]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262331630]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262332005</id>
+    <book>
+  <id type="integer">7733</id>
+  <isbn>0141439491</isbn>
+  <isbn13>9780141439495</isbn13>
+  <text_reviews_count type="integer">2275</text_reviews_count>
+  <title>Gulliver's Travels</title>
+  <image_url>https://d.gr-assets.com/books/1427829692m/7733.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1427829692s/7733.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7733.Gulliver_s_Travels</link>
+  <num_pages>306</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.54</average_rating>
+  <ratings_count>163505</ratings_count>
+  <description>&lt;em&gt;
+  &lt;strong&gt;'I felt something alive moving on my left leg ... when bending my Eyes downwards as much as I could. I perceived it to be a human Creature not six inches high'&lt;/strong&gt;
+&lt;/em&gt;&lt;br&gt;&lt;br&gt;Shipwrecked and cast adrift, Lemuel Gulliver wakes to find himself on Lilliput, an island inhabited by little people, whose height makes their quarrels over fashion and fame seem ridiculous. His subsequent encounters - with the crude giants of Brobdingnag, the philosophical Houyhnhnms and the brutish Yahoos - give Gulliver new, bitter insights into human behaviour. Swift's savage satire view mankind in a distorted hall of mirrors as a diminished, magnified and finally bestial species, presenting us with an uncompromising reflection of ourselves.&lt;br&gt;&lt;br&gt;This text, based on the first edition of 1726, reproduces all its original illustrations and includes an introduction by Robert Demaria, Jr, which discusses the ways &lt;em&gt;Gulliver's Travels&lt;/em&gt; has been interpreted since its first publication.</description>
+<authors>
+<author>
+<id>1831</id>
+<name>Jonathan Swift</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1183238507p5/1831.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1183238507p2/1831.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1831.Jonathan_Swift]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>215289</ratings_count>
+<text_reviews_count>4469</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:05:53 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:05:53 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262332005]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262332005]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262331866</id>
+    <book>
+  <id type="integer">2956</id>
+  <isbn>0142437174</isbn>
+  <isbn13>9780142437179</isbn13>
+  <text_reviews_count type="integer">8634</text_reviews_count>
+  <title>The Adventures of Huckleberry Finn (Tom Sawyer &amp; Huckleberry Finn, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1405973850m/2956.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405973850s/2956.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn</link>
+  <num_pages>327</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>901393</ratings_count>
+  <description>Of all the contenders for the title of The Great American Novel, none has a better claim than &lt;em&gt;The Adventures of Huckleberry Finn.&lt;/em&gt; Intended at first as a simple story of a boy's adventures in the Mississippi Valley - a sequel to &lt;em&gt;The Adventures of Tom Sawyer&lt;/em&gt; - the book grew and matured under Twain's hand into a work of immeasurable richness and complexity. More than a century after its publication, the critical debate over the symbolic significance of Huck's and Jim's voyage is still fresh, and it remains a major work that can be enjoyed at many levels: as an incomparable adventure story and as a classic of American humor.</description>
+<authors>
+<author>
+<id>1244</id>
+<name>Mark Twain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322103868p5/1244.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322103868p2/1244.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1743980</ratings_count>
+<text_reviews_count>30396</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:05:40 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:05:40 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262331866]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262331866]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262331789</id>
+    <book>
+  <id type="integer">6185</id>
+  <isbn>0393978893</isbn>
+  <isbn13>9780393978896</isbn13>
+  <text_reviews_count type="integer">15421</text_reviews_count>
+  <title>Wuthering Heights</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6185.Wuthering_Heights</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information>Fourth Edition</edition_information>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>837658</ratings_count>
+  <description>Wuthering Heights is a wild, passionate story of the intense and almost demonic love between Catherine Earnshaw and Heathcliff, a foundling adopted by Catherine's father. After Mr Earnshaw's death, Heathcliff is bullied and humiliated by Catherine's brother Hindley and wrongly believing that his love for Catherine is not reciprocated, leaves Wuthering Heights, only to return years later as a wealthy and polished man. He proceeds to exact a terrible revenge for his former miseries. The action of the story is chaotic and unremittingly violent, but the accomplished handling of a complex structure, the evocative descriptions of the lonely moorland setting and the poetic grandeur of vision combine to make this unique novel a masterpiece of English literature.</description>
+<authors>
+<author>
+<id>4191</id>
+<name>Emily Brontë</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1335095542p5/4191.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1335095542p2/4191.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4191.Emily_Bront_]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>857394</ratings_count>
+<text_reviews_count>22921</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:05:33 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:05:33 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262331789]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262331789]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262331555</id>
+    <book>
+  <id type="integer">1934</id>
+  <isbn>0451529308</isbn>
+  <isbn13>9780451529305</isbn13>
+  <text_reviews_count type="integer">11962</text_reviews_count>
+  <title>Little Women (Little Women, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1934.Little_Women</link>
+  <num_pages>449</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet Classics</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>1146135</ratings_count>
+  <description>Mujercitas, el clásico de Louisa May Alcott ambientado en la guerra de Secesión, fue publicado en Estados Unidos en 1868. Han pasado casi ciento cincuenta años desde entonces, pero la complicidad de las cuatro hermanas March, quienes a través de sus gestos y palabras resumen el espíritu crítico de una época, sigue siendo fuente de inspiración y disfrute para las generaciones de lectores que se asoman a las páginas de esta fascinante obra.&lt;br&gt;&lt;br&gt;Elaine Showalter, catedrática de la Universidad de Princeton, está considerada una de las voces más representativas de la crítica literaria feminista. En su brillante introducción analiza en detalle las influencias de la autora, así como el impacto de Mujercitas en la obra de escritoras de la talla de Simone de Beauvoir, Joyce Carol Oates o Cinthya Ozick.&lt;br&gt;&lt;br&gt;«Si fuese un chico, me escaparía contigo y lo pasaríamos en grande, pero soy una pobre chica y he de comportarme con propiedad y volver a casa.»</description>
+<authors>
+<author>
+<id>1315</id>
+<name>Louisa May Alcott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200326665p5/1315.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200326665p2/1315.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1315.Louisa_May_Alcott]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1313753</ratings_count>
+<text_reviews_count>21560</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:04:56 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:04:56 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262331555]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262331555]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262331270</id>
+    <book>
+  <id type="integer">9375</id>
+  <isbn>0375508414</isbn>
+  <isbn13>9780375508417</isbn13>
+  <text_reviews_count type="integer">3042</text_reviews_count>
+  <title>Fried Green Tomatoes at the Whistle Stop Cafe</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe</link>
+  <num_pages>416</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>185281</ratings_count>
+  <description>It's first the story of two women in the 1980s, of gray-headed Mrs. Threadgoode telling her life story to Evelyn, who is in the sad slump of middle age. The tale she tells is &lt;em&gt;also&lt;/em&gt; of two women -- of the irrepressibly daredevilish tomboy Idgie and her friend Ruth, who back in the thirties ran a little place in Whistle Stop, Alabama, a Southern kind of Cafe Wobegon offering good barbecue and good coffee and all kinds of love and laughter, even an occasional murder.</description>
+<authors>
+<author>
+<id>6125</id>
+<name>Fannie Flagg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1328803839p5/6125.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1328803839p2/6125.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6125.Fannie_Flagg]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>289240</ratings_count>
+<text_reviews_count>15459</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:04:18 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:04:18 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262331270]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262331270]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>262331176</id>
+    <book>
+  <id type="integer">12658</id>
+  <isbn>0375760377</isbn>
+  <isbn13>9780375760372</isbn13>
+  <text_reviews_count type="integer">1018</text_reviews_count>
+  <title>Hawaii</title>
+  <image_url>https://d.gr-assets.com/books/1415585664m/12658.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415585664s/12658.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12658.Hawaii</link>
+  <num_pages>1136</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dial Press Trade Paperback</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>56091</ratings_count>
+  <description>Pulitzer Prize–winning author James A. Michener brings Hawaii’s epic history vividly to life in a classic saga that has captivated readers since its initial publication in 1959. As the volcanic Hawaiian Islands sprout from the ocean floor, the land remains untouched for centuries—until, little more than a thousand years ago, Polynesian seafarers make the perilous journey across the Pacific, flourishing in this tropical paradise according to their ancient traditions. Then, in the early nineteenth century, American missionaries arrive, bringing with them a new creed and a new way of life. Based on exhaustive research and told in Michener’s immersive prose, Hawaii is the story of disparate peoples struggling to keep their identity, live in harmony, and, ultimately, join together.</description>
+<authors>
+<author>
+<id>7995</id>
+<name>James A. Michener</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1446210714p5/7995.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1446210714p2/7995.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7995.James_A_Michener]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>217649</ratings_count>
+<text_reviews_count>7176</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 15 10:04:09 -0800 2012</date_added>
+  <date_updated>Sun Jan 15 10:04:09 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/262331176]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/262331176]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[i3Zsl7r13oHEQCjv1vXw]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>119251</id>
+  <title><![CDATA[The Great Brain Does it Again (Great Brain #7)]]></title>
+  <isbn><![CDATA[0440429838]]></isbn>
+  <isbn13><![CDATA[9780440429838]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[US]]></country_code>
+  <image_url>https://d.gr-assets.com/books/1218422908m/119251.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1218422908s/119251.jpg</small_image_url>
+  <publication_year>1976</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Yearling</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[As entertaining as ever...readers will fall happily under The Great Brain's spell."-- "School Library Journal.]]></description>
+  <work>
+  <id type="integer">114813</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">119251</best_book_id>
+  <reviews_count type="integer">2527</reviews_count>
+  <ratings_sum type="integer">8108</ratings_sum>
+  <ratings_count type="integer">1929</ratings_count>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <original_publication_year type="integer">1975</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Great Brain Does it Again (Great Brain #7)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:797|4:749|3:363|2:18|1:2|total:1929</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[144]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1883]]></ratings_count>
+  <text_reviews_count><![CDATA[26]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/119251.The_Great_Brain_Does_it_Again]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/119251.The_Great_Brain_Does_it_Again]]></link>
+  <authors>
+<author>
+<id>689512</id>
+<name>John D. Fitzgerald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1273648835p5/689512.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1273648835p2/689512.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/689512.John_D_Fitzgerald]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>31158</ratings_count>
+<text_reviews_count>1392</text_reviews_count>
+</author>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245185581p5/692.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245185581p2/692.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>246305</ratings_count>
+<text_reviews_count>4856</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/119251.The_Great_Brain_Does_it_Again">The Great Brain Does it Again Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0440429838&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" href="https://www.goodreads.com/book/show/119251.The_Great_Brain_Does_it_Again?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="292"/>
+      <shelf name="childrens" count="33"/>
+      <shelf name="fiction" count="32"/>
+      <shelf name="young-adult" count="20"/>
+      <shelf name="children-s" count="19"/>
+      <shelf name="historical-fiction" count="17"/>
+      <shelf name="children" count="14"/>
+      <shelf name="kids" count="14"/>
+      <shelf name="children-s-books" count="14"/>
+      <shelf name="historical" count="11"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="childhood" count="9"/>
+      <shelf name="humor" count="9"/>
+      <shelf name="series" count="8"/>
+      <shelf name="childhood-favorites" count="7"/>
+      <shelf name="childrens-books" count="7"/>
+      <shelf name="ya" count="6"/>
+      <shelf name="middle-grade" count="6"/>
+      <shelf name="adventure" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="classic" count="5"/>
+      <shelf name="read-as-a-kid" count="4"/>
+      <shelf name="childhood-books" count="4"/>
+      <shelf name="children-s-lit" count="4"/>
+      <shelf name="kids-books" count="4"/>
+      <shelf name="default" count="3"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="children-s-chapter-books" count="3"/>
+      <shelf name="classics" count="3"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="my-childhood" count="3"/>
+      <shelf name="childrens-lit" count="3"/>
+      <shelf name="read-to-my-children" count="2"/>
+      <shelf name="childrens-young-adult" count="2"/>
+      <shelf name="read-but-at-papas-out-of-reach" count="2"/>
+      <shelf name="for-children" count="2"/>
+      <shelf name="sam" count="2"/>
+      <shelf name="great-brain" count="2"/>
+      <shelf name="humour" count="2"/>
+      <shelf name="listened-to" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="mystery" count="2"/>
+      <shelf name="utah" count="2"/>
+      <shelf name="books-i-own" count="2"/>
+      <shelf name="children-s-fiction" count="2"/>
+      <shelf name="already-read" count="2"/>
+      <shelf name="kids-ya" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="from-my-childhood" count="2"/>
+      <shelf name="west" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="just-for-fun" count="2"/>
+      <shelf name="realistic-fiction" count="2"/>
+      <shelf name="books-of-my-youth" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="read-to-kids" count="2"/>
+      <shelf name="children-books" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="my-youth" count="2"/>
+      <shelf name="juv-ya" count="2"/>
+      <shelf name="youth-fiction" count="2"/>
+      <shelf name="elementary-school" count="2"/>
+      <shelf name="juvenile-fiction" count="2"/>
+      <shelf name="to-read-with-kids" count="1"/>
+      <shelf name="want-to-read-to-sophie" count="1"/>
+      <shelf name="to-read-later" count="1"/>
+      <shelf name="sci-fi-fantasy-to-read" count="1"/>
+      <shelf name="read-to-boys" count="1"/>
+      <shelf name="edrd314" count="1"/>
+      <shelf name="other" count="1"/>
+      <shelf name="ambleside-04" count="1"/>
+      <shelf name="shelfari-wishlist" count="1"/>
+      <shelf name="uitzoeken" count="1"/>
+      <shelf name="younger-fiction" count="1"/>
+      <shelf name="siblings" count="1"/>
+      <shelf name="family" count="1"/>
+      <shelf name="quickreads" count="1"/>
+      <shelf name="bio" count="1"/>
+      <shelf name="read-aloud-to-read" count="1"/>
+      <shelf name="chapter-other" count="1"/>
+      <shelf name="for-bubba" count="1"/>
+      <shelf name="library-wishlist" count="1"/>
+      <shelf name="books-i-read-as-a-kid" count="1"/>
+      <shelf name="leela" count="1"/>
+      <shelf name="3-and-a-half-stars" count="1"/>
+      <shelf name="read-aloud" count="1"/>
+      <shelf name="great-books-for-kids" count="1"/>
+      <shelf name="read-unrated" count="1"/>
+      <shelf name="expansive-bedtime" count="1"/>
+      <shelf name="childhood-kept-shared" count="1"/>
+      <shelf name="z-history-american" count="1"/>
+      <shelf name="general-fiction" count="1"/>
+      <shelf name="want-to-own" count="1"/>
+      <shelf name="1970s-written" count="1"/>
+      <shelf name="2015-list" count="1"/>
+      <shelf name="read-to-long-ago-to-rate" count="1"/>
+      <shelf name="elementary-classics" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="z-1st-person" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>192187</id>
+<user_position>7</user_position>
+<series>
+<id>50904</id>
+<title>
+<![CDATA[
+    The Great Brain
+]]>
+</title>
+<description>
+<![CDATA[
+    Humorous historical fiction for children, ages 8-12.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>9</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>291461</id>
+<title><![CDATA[Encyclopedia Brown Takes the Case (Encyclopedia Brown, #10)]]></title>
+<title_without_series><![CDATA[Encyclopedia Brown Takes the Case]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/291461.Encyclopedia_Brown_Takes_the_Case]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>1103664</id>
+</work>
+<isbn>0553151843</isbn>
+<isbn13>9780553151848</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>865</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9152</id>
+<name>Donald J. Sobol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9152.Donald_J_Sobol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>142086</id>
+<title><![CDATA[The War with Mr. Wizzle (MacDonald Hall, #4)]]></title>
+<title_without_series>The War with Mr. Wizzle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/142086.The_War_with_Mr_Wizzle]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1366490361s/142086.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1366490361m/142086.jpg]]></image_url>
+<work>
+<id>1159</id>
+</work>
+<isbn>0590442066</isbn>
+<isbn13>9780590442060</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>931</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39788</id>
+<title>The Fourth Grade Wizards</title>
+<title_without_series>The Fourth Grade Wizards</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39788.The_Fourth_Grade_Wizards]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>39490</id>
+</work>
+<isbn>0140327606</isbn>
+<isbn13>9780140327601</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>202</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21717</id>
+<name>Barthe DeClements</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21717.Barthe_DeClements]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383010</id>
+<title>Thirteen Ways to Sink a Sub</title>
+<title_without_series>Thirteen Ways to Sink a Sub</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383010.Thirteen_Ways_to_Sink_a_Sub]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>2033890</id>
+</work>
+<isbn>0380732513</isbn>
+<isbn13>9780380732517</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>127</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>60980</id>
+<name>Jamie Gilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60980.Jamie_Gilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>493508</id>
+<title>Soup (Soup, #1)</title>
+<title_without_series>Soup</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/493508.Soup]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>3275154</id>
+</work>
+<isbn>0394927001</isbn>
+<isbn13>9780394927008</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1060</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>17541</id>
+<name>Robert Newton Peck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17541.Robert_Newton_Peck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>692137</id>
+<title>Tucker&apos;s Countryside</title>
+<title_without_series>Tucker&apos;s Countryside</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/692137.Tucker_s_Countryside]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>678475</id>
+</work>
+<isbn>0440402484</isbn>
+<isbn13>9780440402480</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>467</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13705</id>
+<name>George Selden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13705.George_Selden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>87573</id>
+<title><![CDATA[The Mystery of the Green Ghost (Alfred Hitchcock and The Three Investigators, #4)]]></title>
+<title_without_series><![CDATA[The Mystery of the Green Ghost]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/87573.The_Mystery_of_the_Green_Ghost]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1267232746s/87573.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1267232746m/87573.jpg]]></image_url>
+<work>
+<id>1600217</id>
+</work>
+<isbn>0394864042</isbn>
+<isbn13>9780394864044</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1901</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>50291</id>
+<name>Robert Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50291.Robert_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100330</id>
+<title><![CDATA[Henry Reed's Babysitting Service]]></title>
+<title_without_series><![CDATA[Henry Reed's Babysitting Service]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100330.Henry_Reed_s_Babysitting_Service]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>3188880</id>
+</work>
+<isbn>0140341463</isbn>
+<isbn13>9780140341461</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>444</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>57931</id>
+<name>Keith Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57931.Keith_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>752749</id>
+<title><![CDATA[My Teacher Flunked the Planet (My Teacher is an Alien, #4)]]></title>
+<title_without_series>My Teacher Flunked the Planet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/752749.My_Teacher_Flunked_the_Planet]]></link>
+<small_image_url><![CDATA[https://d.gr-assets.com/books/1416788540s/752749.jpg]]></small_image_url>
+<image_url><![CDATA[https://d.gr-assets.com/books/1416788540m/752749.jpg]]></image_url>
+<work>
+<id>809501</id>
+</work>
+<isbn>1416903313</isbn>
+<isbn13>9781416903314</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1424</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10087</id>
+<name>Bruce Coville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10087.Bruce_Coville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>222127</id>
+<title><![CDATA[The Mad Scientists' Club (Mad Scientists' Club, #1)]]></title>
+<title_without_series>The Mad Scientists&apos; Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/222127.The_Mad_Scientists_Club]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<work>
+<id>215114</id>
+</work>
+<isbn>1930900104</isbn>
+<isbn13>9781930900103</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>1327</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>130017</id>
+<name>Bertrand R. Brinley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/130017.Bertrand_R_Brinley]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
